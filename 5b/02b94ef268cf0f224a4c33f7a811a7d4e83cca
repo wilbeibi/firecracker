@@ -1,0 +1,19 @@
+tests/integration_tests/functional/test_snapshot_basic.py
+  s_966e217e0cc264::t_b49ea00ec4ffb6 619-648
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5b02b94ef268cf0f224a4c33f7a811a7d4e83cca",
+  "prompts": {},
+  "sessions": {
+    "s_966e217e0cc264": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1600b-609b-7a53-9c96-cfe4283ad0ef",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Hongyi Shen <wilbeibi@gmail.com>"
+    }
+  }
+}
