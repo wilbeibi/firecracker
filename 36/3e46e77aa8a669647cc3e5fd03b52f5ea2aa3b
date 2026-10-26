@@ -1,0 +1,23 @@
+tests/integration_tests/functional/test_snapshot_basic.py
+  s_4804f0c631eefd::t_6c6895d16e5236 592-618
+tests/framework/microvm.py
+  s_4804f0c631eefd::t_6c6895d16e5236 21,87-91
+src/vmm/src/vstate/memory.rs
+  s_4804f0c631eefd::t_6c6895d16e5236 11,972,975-976
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "363e46e77aa8a669647cc3e5fd03b52f5ea2aa3b",
+  "prompts": {},
+  "sessions": {
+    "s_4804f0c631eefd": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a17926-4c19-7c93-8935-0aadfec1f07d",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Hongyi Shen <wilbeibi@gmail.com>"
+    }
+  }
+}
